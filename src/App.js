@@ -9,6 +9,7 @@ function App() {
         <p>
           Edita <code>src/App.js</code> and save to reload.
         </p>
+        <p>Este es un ejemplo de commit</p>
         <a
           className="App-link"
           href="https://reactjs.org"
